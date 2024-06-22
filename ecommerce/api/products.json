@@ -1,0 +1,65 @@
+[
+    {
+        "id":1,
+        "name": "Laptop",
+        "category": "Computer",
+        "brand": "ExampleBrand",
+        "price": 999.99,
+        "stock": 50,
+        "description": "Powerful laptop with a quad- core i7 processor, 16GB RAM, 256GB SSD, and a 14-inch FHD display.",
+        "image": "../images/lapi.png"
+    },
+
+    {
+        "id":1,
+        "name": "Smartphone",
+        "category": "Mobile",
+        "brand": "Apple",
+        "price": 1999.99,
+        "stock": 50,
+        "description": "6.2 inch display, 12MP camera, 128GB storage, 4000mAh battery.",
+        "image": "../images/iphone.png"
+    },
+    
+    {
+        "id":3,
+        "name": "Wireless Headphone",
+        "category": "Audio",
+        "brand": "SoundBeats",
+        "price": 199.99,
+        "stock": 30,
+        "description": "20 hours battery backup, and a sleek black color.",
+        "image": "../images/headphone.png"
+    },
+    {
+        "id":4,
+        "name": "Watche",
+        "category": "Wearable",
+        "brand": "Sonata",
+        "price": 99.99,
+        "stock": 30,
+        "description": "Cool and comfortable wrist watch with high quartz capabiltity.",
+        "image": "../images/watch.png"
+    },
+    {
+        "id": 5,
+        "name": "Speaker",
+        "category": "Audio",
+        "brand": "Boat",
+        "price": 199.99,
+        "stock": 30,
+        "description": "High quality base and sound system.",
+        "image": "../images/speaker.png"
+    },
+    {
+        "id":6,
+        "name": "Television",
+        "category": "Video",
+        "brand": "Samsung",
+        "price": 199.99,
+        "stock": 30,
+        "description": "Nice display 144Hz and dolbe audio system and easy connection to blutooth.",
+        "image": "../images/tv.png"
+    }
+
+]
